@@ -17,7 +17,7 @@ googleAnalytics: G-BPV5EMELK0
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: gcptools
-    description: "This site aims to share the best open source tools to interact with the Google Cloud Platform."
+    description: "This site aims to share the best open source tools to interact with the Google Cloud Platform. Feel free to contribute: https://github.com/SamuelNeves/gcptools.dev/ "
     author: GCP Tools
     # author: ["Me", "You"] # multiple authors
     defaultTheme: auto # dark, light
