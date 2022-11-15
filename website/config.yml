@@ -47,7 +47,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: This site aims to share the best open source tools to interact with the Google Cloud Platform.
+        Content: "This site aims to share the best open source tools to interact with the Google Cloud Platform. Feel free to contribute: https://github.com/SamuelNeves/gcptools.dev/ "
 
     # socialIcons:
     #     - name: twitter
